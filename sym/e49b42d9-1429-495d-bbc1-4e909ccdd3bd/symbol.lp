@@ -1,0 +1,11 @@
+(librepcb_symbol e49b42d9-1429-495d-bbc1-4e909ccdd3bd
+ (name "CH554")
+ (description "")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2026-08-26T22:41:15Z)
+ (deprecated false)
+ (generated_by "")
+ (grid_interval 2.54)
+)

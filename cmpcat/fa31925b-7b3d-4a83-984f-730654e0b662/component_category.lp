@@ -1,0 +1,10 @@
+(librepcb_component_category fa31925b-7b3d-4a83-984f-730654e0b662
+ (name "DC/DC Converter")
+ (description "")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2026-05-09T05:15:48Z)
+ (deprecated false)
+ (parent c6be465e-4086-4785-9437-8ec0a76689b3)
+)

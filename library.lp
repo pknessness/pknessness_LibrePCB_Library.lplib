@@ -1,0 +1,11 @@
+(librepcb_library a09e75c5-ba4b-42d3-9b5a-ffd987409d7d
+ (name "pknessness LibrePCB Library")
+ (description "Miscillaneous items")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2026-04-20T03:51:02Z)
+ (deprecated false)
+ (url "https://github.com/pknessness/pknessness-LibrePCB-Library")
+ (manufacturer "")
+)

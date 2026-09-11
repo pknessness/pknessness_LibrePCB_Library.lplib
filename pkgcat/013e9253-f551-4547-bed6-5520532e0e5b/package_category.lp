@@ -1,0 +1,10 @@
+(librepcb_package_category 013e9253-f551-4547-bed6-5520532e0e5b
+ (name "Wiimote")
+ (description "")
+ (keywords "")
+ (author "Anshal Jain")
+ (version "0.1")
+ (created 2026-05-03T23:34:20Z)
+ (deprecated false)
+ (parent 1d2630f1-c375-49f0-a0dc-2446735d82f4)
+)
